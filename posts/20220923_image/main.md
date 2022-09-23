@@ -11,7 +11,7 @@ Copyright: (C) 2022 Yuta Hirata
 
 ## ドリア
 
-![ドリア](./doria.jpg)
+![ドリア](doria.jpg)
 
 ## <span id="donburi">どんぶり</span>
 
@@ -19,5 +19,5 @@ Copyright: (C) 2022 Yuta Hirata
 
 ## ドキュメント
 
-[確認用.pdf](kakunin.pdf)
+[確認用.pdf](kakunin.pdf)  
 [Wikipedia](https://ja.wikipedia.org)
