@@ -3,6 +3,6 @@ Keywords:
 Copyright: (C) 2022 Yuta Hirata
 ---
 
-# Title
+# title
 
 Write contents here.
