@@ -1,5 +1,6 @@
 ---
 Copyright: (C) 2022 Yuta Hirata
+Keywords: twitter, bash
 ---
 
 # Twitterの埋め込み
